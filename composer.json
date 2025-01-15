@@ -1,0 +1,17 @@
+{
+    "name": "alexob1290/core",
+    "description": "my project Core directiry",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Alexob1290\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AlexOB1290",
+            "email": "rougetrooper2016@gmail.com"
+        }
+    ],
+    "require": {}
+}
